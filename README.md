@@ -8,4 +8,4 @@ Here is a dataset from kaggle (https://www.kaggle.com/nsharan/h-1b-visa).
 1. The average <b>salary</b> of a worker applying for an H-1B is <b>$100642.8</b>, with a maximum of whooping <b>$329139200</b> and minimum of only <b>$7500</b>.
 Here the max value is in <b>millions</b>, however that employer firm is no longer in business which means either it was shutdown by the government due to <b>fraudalent</b> terms or it was a <b>fake</b> news.
 
-2.The highest paid employee resides in <b>SANTA MONICA, CALIFORNIA</b> and works at <b>E AND D MEDIA INC.</b> while the one who is overexploited by his employer lives in <b>NEW YORK CITY, NEW YORK</b> and works at <b>LOTUS SOFT CORPORATION</b>.
+2. The highest paid employee resides in <b>SANTA MONICA, CALIFORNIA</b> and works at <b>E AND D MEDIA INC.</b> while the one who is overexploited by his employer lives in <b>NEW YORK CITY, NEW YORK</b> and works at <b>LOTUS SOFT CORPORATION</b>.
