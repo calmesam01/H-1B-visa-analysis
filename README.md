@@ -9,3 +9,10 @@ Here is a dataset from kaggle (https://www.kaggle.com/nsharan/h-1b-visa).
 Here the max value is in <b>millions</b>, however that employer firm is no longer in business which means either it was shutdown by the government due to <b>fraudalent</b> terms or it was a <b>fake</b> news.
 
 2. The highest paid employee resides in <b>SANTA MONICA, CALIFORNIA</b> and works at <b>E AND D MEDIA INC.</b> while the one who is overexploited by his employer lives in <b>NEW YORK CITY, NEW YORK</b> and works at <b>LOTUS SOFT CORPORATION</b>.
+
+3. The number of h1-b visa petitions continue to <b>increase</b> every year as shown below - <br>
+    2012 - 415606<br>
+    2013 - 442113<br>
+    2014 - 519426<br>
+    2015 - 618724<br>
+    2016 - 647804<br>
