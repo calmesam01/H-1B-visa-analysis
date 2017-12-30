@@ -12,7 +12,7 @@ Here the max value is in <b>millions</b>, however that employer firm is no longe
 
 3. The number of h1-b visa petitions continue to <b>increase</b> every year as shown below - <br>
     
-    ![rplot](https://user-images.githubusercontent.com/16416130/34456500-a4e5c1d8-edbd-11e7-9648-109d1254abf7.png)
+    ![rplot](https://user-images.githubusercontent.com/16416130/34456500-a4e5c1d8-edbd-11e7-9648-109d1254abf7.png)<br>
     2012 - 415606<br>
     2013 - 442113<br>
     2014 - 519426<br>
