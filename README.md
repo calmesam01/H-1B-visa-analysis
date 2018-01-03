@@ -22,3 +22,5 @@ Here the max value is in <b>millions</b>, however that employer firm is no longe
 4. The average salary of an employess in the US applying for an H-1B every year can be seen in the following graph.<br>
 
     ![h1b](https://user-images.githubusercontent.com/16416130/34522320-0f420300-f0b8-11e7-9f52-bf8933ebe8c4.png)
+
+    There has been a sudden decline in the year 2013 which can be related to the <b>United States debt-ceiling crisis 2013</b>.
