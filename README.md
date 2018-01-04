@@ -14,14 +14,14 @@ Here the max value is in <b>millions</b>, however that employer firm is no longe
     
     ![rplot](https://user-images.githubusercontent.com/16416130/34456500-a4e5c1d8-edbd-11e7-9648-109d1254abf7.png)<br>
 
-4. The average salary of an employee in the US applying for an H-1B every year can be seen in the following graph.<br>
+4. The <b>average salary</b> of an employee in the US applying for an H-1B every year can be seen in the following graph.<br>
 
     ![h1b](https://user-images.githubusercontent.com/16416130/34522320-0f420300-f0b8-11e7-9f52-bf8933ebe8c4.png)
 
-    There has been a sudden decline in the year 2013 which can be related to the <b>United States debt-ceiling crisis 2013</b>.
+    There has been a sudden <b>decline</b> in the year 2013 which can be related to the <b>United States debt-ceiling crisis 2013</b>.
 
-5. The following word cloud answers the question - which job title files the most number of petitions everywhere?
+5. The following word cloud answers the question - which <b>job title</b> files the most number of petitions everywhere?
 
     ![j2](https://user-images.githubusercontent.com/16416130/34578657-cf9e30b2-f1ab-11e7-8c1f-0940fbfcca1d.png)
     
-    It can be infered that analysts are on top followed by managers, leaving consultants and associates behind.
+    It can be infered that <b>analysts</b> are on top followed by <b>managers</b>, leaving <b>consultants</b> and <b>associates</b> behind.
